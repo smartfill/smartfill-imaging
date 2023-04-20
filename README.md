@@ -1,2 +1,2 @@
 # smartfill-imaging
-Repo that holds images for the smartfill app
+Repo storing images to be displayed on Smartfill dispensers
